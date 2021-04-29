@@ -9,7 +9,7 @@ This is an Exploratory Data Amalysis on the Titanic Dataset where the intention 
 
 ## Installation
 
-I have used **Google Colaboratory** to code the file. But IO have also uploaded **.ipynb file** if Colaboratory isn't accessible.
+I have used **Google Colaboratory** to code the file. But I have also uploaded **.ipynb file** if Colaboratory isn't accessible.
 
 
 The following libraries have been used:
